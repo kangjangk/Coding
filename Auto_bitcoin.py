@@ -6,9 +6,9 @@ from fbprophet import Prophet
 import requests
 
 
-access = "CEjPFAQKEKgzxnyuWyQu2x2xkQZAExpUfxZse2vG"
-secret = "yFGCxwn0RUxKsx7ZLVY2GjkKkRcfjQsBm1RNBOZB"
-myToken = "xoxb-2868314675586-2853743841191-oHw1wmX6WIkVXSs4xSLXi6OO"
+access = "1"
+secret = "2"
+myToken = "3"
 
 
 def post_message(token, channel, text):
